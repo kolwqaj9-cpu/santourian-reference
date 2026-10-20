@@ -42,3 +42,11 @@ Preserved shop record for santourian.com. The former plant is not quoting from t
 | 4 | [Precision Metal Stamping](https://santourian.com/articles/precision-metal-stamping.html) | precision metal stamping |
 
 See the full index at [santourian.com](https://santourian.com/).
+
+## Service pages maintained with this archive
+
+The reference notes above support the production work documented on the shop's own service pages:
+
+* **[Thin Gauge Metal Fabrication — Specification Guide](https://santourian.com/services/thin-gauge-metal-fabrication.html)** — How thin gauge metal parts are fabricated without losing flatness: handling, cutting and burr control, bend allowance, weld distortion, and setup disciplin
+* **[Stainless Steel Enclosure — Specification Guide](https://santourian.com/services/stainless-steel-enclosure.html)** — How stainless steel enclosures are specified: 304 versus 316 alloy, gauge and frame, gasket strategy, weld finishing, passivation, and corrosion points.
+* **[Metal Finishing Service — Specification Guide](https://santourian.com/services/metal-finishing-service.html)** — How metal finishing is specified and verified: deburring, grain direction, stainless passivation, plating by environment, and inspection criteria.
